@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Serverless, AWS, NodeJS, NestJS, ReactJS, NextJS, Prisma, React Native ...**
 
-- 💬 Ask me about **NestJS & ReactJS**
+- 💬 [Portfolio] (https://github.com/gilsonricardopeloso/gilsonricardopeloso.github.io): Ask me about **NestJS & ReactJS**
 
 - 📫 How to reach me **gilson.peloso@webxnet.com.br**
 
