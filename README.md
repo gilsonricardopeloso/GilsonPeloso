@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gilson Peloso</h1>
 <h3 align="center">I'm a Node/NestJS & React, React Native Developer</h3>
 
-![Profile views](https://gpvc.arturio.dev/gilsonricardopeloso)
 
 - 🔭 I’m currently working on [GGSInfo](https://ggsinfo.com.br/) / [Webxnet and Kitweb projects](https://github.com/gilsonricardopeloso/kitweb)
 
