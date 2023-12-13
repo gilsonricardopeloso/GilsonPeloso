@@ -23,3 +23,11 @@
 
 ### Profile Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/gilsonricardopeloso/count.svg)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsonricardopeloso&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilsonricardopeloso&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gilsonricardopeloso&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilsonricardopeloso&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gilsonricardopeloso&theme=default&utcOffset=8)
