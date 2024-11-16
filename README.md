@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [GGSInfo](https://ggsinfo.com.br/) / [Webxnet and Kitweb projects](https://github.com/gilsonricardopeloso/kitweb)
 
-- 🌱 I’m currently learning **Serverless, AWS, NodeJS, NestJS, ReactJS, NextJS, Prisma, React Native ...**
+- 🌱 I’m currently learning *Build and deploy automated workflows using any LLM and cloud platform, DAG with Data Pipeline Flow ...**
 
 - 💬 [Portfolio] (https://gilsonricardopeloso.github.io): Ask me about **NestJS & ReactJS**
 
